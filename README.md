@@ -1,3 +1,5 @@
+I now use my [blockets](https://github.com/ECAllen/blockets) framework for bash scripts. I keep this here as a quick BASH template.
+
 # utility_scripts
 
 Various utility scripts for getting stuff done.
